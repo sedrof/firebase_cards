@@ -1,0 +1,10 @@
+.input-group{
+    position: fixed;
+    flex: 20;
+    /* margin-left: 8px; */
+}
+
+.SearchBardiv{
+    display: flex;
+    flex-direction: column-reverse;
+}

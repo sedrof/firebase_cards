@@ -1,0 +1,61 @@
+.transaction{
+    margin-left: 4px;
+    background-color: rgb(240, 243, 227);
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-radius: 35px;
+    /* width: 96px; */
+}
+.Family_group{
+    margin-left: 4px;
+    background-color: rgb(239, 241, 228);
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-radius: 35px;
+    width: 200px;
+    
+}
+.family_member{
+    margin-left: 4px;
+    /* background-color: rgb(205, 221, 226); */
+    background-color: rgb(240, 243, 227);
+    padding-left: 50px;
+    padding-bottom: 50px;
+    border-radius: 35px;
+}
+.family_group_title{ 
+    padding-top: 54px;
+    padding-left: 40%;
+    padding-bottom: 25px;
+}
+.family_member_title{ 
+    padding-top: 54px;
+    padding-left: 40%;
+    padding-bottom: 25px;
+}
+
+.name,.family_type,.any_income_support_payment,.cra_eligibilty,.cra_amount,.last_rent,.ftb_a,.ftb_b,.maintenance_amount,.maintenance_type,.number_of_additional_children {
+    padding-right: 25px;
+}
+.family_group_fm,.name,.date_of_birth,.relationship,.income,.surname,.partnered,.care_percentage,.rent_percentage {
+    padding-right: 25px;
+}
+.chp_reference,.property_market_rent,.income_period,.rent_effective_date,.state{
+    padding-right: 95px;
+}
+.fm_add{
+    padding-left:40%;
+
+}
+.fg_add{
+    padding-left:40%;
+
+}
+.fg_remove{
+    padding-top: 35px;
+    padding-left: 35px;
+}
+.fm_remove{
+    padding-top: 35px;
+    padding-left: 150px;
+}

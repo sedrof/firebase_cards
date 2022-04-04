@@ -1,0 +1,51 @@
+
+/* .btn {
+  float: right;
+  margin-bottom: 15px;
+  margin-left: 450px;
+} */
+
+/* .pagination {
+  height: 100px; 
+  width:100%;
+  position: absolute;
+  right: 0;
+  bottom: 0; 
+  background-color: rgb(222, 224, 230);
+
+} */
+
+.btn-add {
+  /* margin-left: 650px; */
+}
+
+.btn-upload {
+  position: absolute;
+  right: 0;
+  margin-left: 700px;
+}
+
+.container-dark{
+  align-items: center;
+} 
+
+.loading {
+  align-items: center;
+  margin-left: 60px;
+}
+.table-div{
+  margin-top: 15px;
+  font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 15px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #fcfcfc;
+}
+/* .MuiTablePagination-root{
+  display: none;
+} */

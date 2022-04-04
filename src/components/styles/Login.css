@@ -1,0 +1,113 @@
+.main-div {
+    background: #f9fffa;
+    width: 70%;
+    height: 100vh;
+}
+
+.login-form {
+    position: absolute;
+    width: 450px;
+    height: 270px;
+    /* margin-top: 70px; */
+    margin-bottom: 260px;
+    margin-left: 550px;
+    ;
+    background: #f9fffa;
+    /* Gray 4 */
+    border: 2px solid #f9fffa;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.login-button {
+    margin-top: 46px;
+    width: 111px;
+    margin-left: 150px;
+    height: 40px;
+    background: #125a1c;
+    border-radius: 20px;
+}
+
+.button-word {
+    position: center;
+    width: 38px;
+    height: 17px;
+    margin-left: 23px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+
+.login-instructions {
+    width: 69px;
+    height: 22px;
+    padding-top: 26px;
+    padding-bottom: 45px;
+    ;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 28px;
+    color: #125a1c;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.form-username {
+    position: absolute;
+    width: 190px;
+    height: 30px;
+    margin-left: 124px;
+    background: #F7F7F7;
+    /* Gray 3 */
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.form-password {
+    position: absolute;
+    width: 190px;
+    height: 30px;
+    margin-left: 124px;
+    margin-top: 26px;
+    background: #F7F7F7;
+    /* Gray 3 */
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+.form-group1 {
+    padding-bottom: 15px;
+}
+
+.form-group {
+    padding-bottom: 15px;
+}
+
+.forgot-password {
+    position: absolute;
+    width: 156px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 14px;
+    margin-left: 150px;
+    padding-top: 30px;
+    color: #125a1c;
+}
+
+.logo {
+    /* padding-top:160px; */
+    margin-top: 150px;
+    margin-left: 580px;
+    width: 380px;
+    height: 220px;
+}
